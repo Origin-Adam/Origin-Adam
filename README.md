@@ -1,6 +1,6 @@
 # Olá! Sou Adam Gabriel 👋
 
-**Analista de E-Commerce** na **VX Case** — Salvador, BA.
+**Analista de E-Commerce** — Salvador, BA.
 Atuo com QA, automação de processos com **n8n** e análise de sistemas.
 
 ### 🔗 **[Meu portfólio →](https://origin-adam.github.io)**
